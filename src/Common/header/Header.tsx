@@ -20,7 +20,7 @@ function Header()
                         <Link className="nav-link" to="/about">About</Link>
                     </div>
                     <div>
-                        <a className="nav-link" href="https://google.com">
+                        <a className="nav-link" href="/contact">
                             Contact
                         </a>
                     </div>
