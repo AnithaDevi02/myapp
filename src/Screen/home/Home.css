@@ -1,0 +1,21 @@
+.banner-images{
+    width:100%;
+    height: 80vh;
+}
+
+.product-section{
+    padding: 20px;
+}
+
+.product-listing{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+.link-tag{
+    text-decoration: none;
+}

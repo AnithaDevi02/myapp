@@ -1,0 +1,43 @@
+.header-container{
+    background-color:blue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 60px;
+}
+
+.header-logo{
+    padding: 20px;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-links{
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+.cart{
+    position: relative;
+}
+
+.cart-items{
+    position:absolute;
+    right: -15px;
+    top: -15px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: wheat;
+    color: black;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+}
