@@ -14,7 +14,7 @@ function Header()
             <section className="header-nav">
                 <nav className="nav-links">
                     <div>
-                        <Link className="nav-link" to="/">Home</Link>
+                        <Link className="nav-link" to="/myapp">Home</Link>
                     </div>
                     <div>
                         <Link className="nav-link" to="/about">About</Link>
